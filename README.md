@@ -1,6 +1,6 @@
 ## Features
 
-The first goal of this project, started by is to control a servo motor using HC06 bluetooth detector
+The goal of this project, started by is to control a servo motor using HC06 bluetooth detector
 
 + Adapter status monitoring,
 
